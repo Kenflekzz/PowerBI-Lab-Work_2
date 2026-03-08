@@ -6,4 +6,4 @@
 
 ## PDF Documentation
 
-[click here to view the PDF](https://github.com/Kenflekzz/PowerBI-Lab-Work_2/blob/dd396209fe2240a32c735bddd7d8d3d1db0c79dc/Camasura_Kenneth_LW2.pdf)
+PDF link: https://drive.google.com/file/d/1jyc2SeeQ-osGZnrOYLwSBMAJ5ifZlTGT/view?usp=drive_link
