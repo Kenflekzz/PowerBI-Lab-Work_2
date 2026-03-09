@@ -6,4 +6,4 @@
 
 ## PDF Documentation
 
-PDF link: https://drive.google.com/file/d/1jyc2SeeQ-osGZnrOYLwSBMAJ5ifZlTGT/view?usp=drive_link
+[Click here to view PDF](./Camasura_Kenneth_LW2.pdf)
